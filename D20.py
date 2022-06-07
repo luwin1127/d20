@@ -1,6 +1,21 @@
 from random import randint
 from time import sleep
 
+print("                _______             ")
+print("               / .===. \             ")
+print("               \/ 6 6 \/             ")               
+print("               ( \___/ )             ")               
+print("  _________ooo__\_____/_____________ ")  
+print(" /                                  \ ") 
+print(" |              Welcome!            |") 
+print(" \_______________________ooo________/ ")
+print("                |  |  |              ")
+print("                |_ | _|              ")
+print("                |  |  |              ")
+print("                |__|__|              ")
+print("                /-'Y'-\              ")
+print("               (__/ \__)             ")
+
 d20_flag = True
 while d20_flag:
     # 设置难度等级
